@@ -1,3 +1,5 @@
-my_dict={}
-my_dict={'age':23,'Name':"qwe"}
-print(my_dict['age'])
+commit=input("Am I ready for github:--")
+if commit=="yes":
+	print("Yes I will rock")
+else:
+	print("I still need to work on!")
